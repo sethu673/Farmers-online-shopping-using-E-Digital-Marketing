@@ -1,7 +1,11 @@
 # Farmers-online-shopping-using-E-Digital-Marketing
+
 web development for Online Vegetable Sales Application With FrontEnd
+
 1.We have developed this web development for an Online Vegetable Sales Application.
+
 2.This website performs all the fundamental CRUD operations of any Online Vegetable Sales Application with user validation at every step.
+
 3.This project is developed by team of 3 Back-end Developers during project week in Masai School.
 
 
