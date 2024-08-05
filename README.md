@@ -13,27 +13,31 @@ Tech Stack:
 
 1.Java
 
-2.python
+2.spring Boots
 
-3.spring Boots
+3.HTML
 
-4.HTML
+4.CSS
 
-5.CSS
+5.Javascript
 
-6.Javascript
+6.MySQL
 
-7.MySQL
-
-8.Swagger
 
 Modules:
 
-1.Login, Logout Module
+1.Home Page: Introduction, featured products, navigation links.
 
-2.User Module
+2.Login/Register Page: User authentication.
 
-3.Admin Module
+3.Product Listing Page: Display products with filtering and sorting options.
+
+4.Product Details Page: Detailed view of a selected product.
+
+5.Cart Page: Display products added to the cart.
+
+6.Checkout Page: Form for entering shipping details and placing an order.
+
 
 Features:
 
@@ -53,12 +57,9 @@ He/She can check the Buy Vegetable ,Placed order Makes payment and Many more Fun
 
 Contributors:
 
-@Rohan Mahangare
+@thanush Kumar
 
-@Vivek Gupta
-
-@Niharika Pandey
-
+@Dinesh Kumar
 
 ER Diagram:
 
@@ -80,7 +81,7 @@ website Root Endpoint
 
 https://localhost:8088/
 
-http://localhost:8088/swagger-ui/
+http://localhost:8088/farmers_online_shopping/
 
 website Endpoints
 Login Module
